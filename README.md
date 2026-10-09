@@ -91,10 +91,10 @@ frontend/
 ├── src/
 │   ├── assets/          # Estilos globales y recursos estáticos
 │   ├── components/      # Componentes reutilizables (Navbar, Tabla, etc.)
-│   │   └── __tests__/   # Pruebas unitarias de componentes (.spec.js)
 │   ├── router/          # Configuración de Vue Router y guardias globales
 │   ├── stores/          # Tiendas de Pinia (Auth Store, etc.)
 │   ├── views/           # Vistas principales (Login, ListarUsuarios, CrearUsuario, EditarUsuario)
+│   │   └── __tests__/   # Pruebas unitarias de componentes (.spec.js)
 │   ├── App.vue          # Componente Raíz
 │   └── main.js          # Punto de entrada principal
 ├── package.json
