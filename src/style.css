@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Ajuste de compatibilidad para el Collapse de Bootstrap 5 con Tailwind v4 */
+/*colors:{
+'brand-primary':'#000022',
+'brand-secondary':'#1e293b',
+},
+fontFamily:{
+    'sans':['Inter','sans-serif'],
+}*/

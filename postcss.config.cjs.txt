@@ -1,0 +1,7 @@
+module.exports = {
+    plugins: {
+        tailwindcss:{},
+        autoprefixer:{},
+    }
+}
+//sirve para procesar y compilar las reglas de estilo de tailwind css
